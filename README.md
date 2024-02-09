@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi , I'm Rishikesh Bais</h1>
+<h3 align="center">A passionate data analyst</h3>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<!--
-**RishikeshBais/RishikeshBais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Data Science from Newton School**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://github.com/RishikeshBais?tab=repositories](https://github.com/RishikeshBais?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **POWER BI, SQL , DBMS , EXCEL**
+
+- 📫 How to reach me **rishibaisbais@gmail.com**
+
+- 📄 Know about my experiences [https://rishikeshbaisresume.tiiny.site/](https://rishikeshbaisresume.tiiny.site/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rishikesh bais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishikesh bais" height="30" width="40" /></a>
+</p>
