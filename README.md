@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data analyst</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-- 🌱 I’m currently learning **Data Science from Newton School**
+- 🌱 I have done **Data Science Certification from Newton School**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RishikeshBais?tab=repositories](https://github.com/RishikeshBais?tab=repositories)
 
