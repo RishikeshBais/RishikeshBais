@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rishibaisbais@gmail.com**
 
-- 📄 Know about my experiences [https://rishikeshbaisresume.tiiny.site/](https://turquoise-ernaline-60.tiiny.site)
+- 📄 Know about my experiences [https://rishikeshbaisresume.tiiny.site/](https://yellow-winonah-94.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
